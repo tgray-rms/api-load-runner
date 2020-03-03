@@ -1,0 +1,30 @@
+# Created by .ignore support plugin (hsz.mobi)
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+*.fb
+.idea
+
+
+# Eclipse
+.classpath/
+.project/
+.settings/
+*.classpath
+*.project
+
+# Mac
+.DS_Store
+
+#logs
+logs/
+*.log
+config-filter.properties
+
+#test inputs
+*.inputs
+/.classpath
+/.project
+/.vs/*
+*.json
